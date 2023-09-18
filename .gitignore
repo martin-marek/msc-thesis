@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+.obsidian
+__pycache__
+private
+deprecated
+weights
+gcloud
+plots/Screenshot*
